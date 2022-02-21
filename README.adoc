@@ -1,0 +1,10 @@
+= Notes
+
+University notes, written in Asciidoc.
+
+* TPO
+** link:TPO/vaje[Vaje]
+
+== License
+
+Notes in this repository are licensed under the link:LICENSE[MIT license].

@@ -1,0 +1,79 @@
+= Predlog projekta (začetni projektni plan)
+:toc:
+:toc-title: Kazalo
+
+Primer uporabe: Za prijavo na razpis projekta (korak 2 je projektni načrt)
+
+== Povzetek projekta
+
+.Vsebuje:
+* cilje
+* razvidna mora biti problemska domena
+
+== Projekta ideja
+
+=== Ozadje
+
+* kontekst projekta
+* kaj na tem področju obstaja dosedaj
+* gre za opis domene
+
+=== Področje in motivacija
+
+* kaj je motivacija za projekt
+* opis problema, ki ga je treba rešiti
+* opis potreb, ki so očitne za izvedbo projekta
+* razlogi za projekt
+* kaj lahko spremeniš na bolje
+
+== Namen
+
+.Vprašanja:
+* Kakšne koristi ima lahko projekt za organizacijo, področje, znanost, stroko?
+* Kakšna je zamisel in kaj hočeš doseči?
+* Kakšne probleme bomo rešili?
+* Kaj bojo uporabniki sposobni narediti bolje?
+
+=== Cilji
+
+* Razlika med namenom in ciljem: cilj je merljiv (npr. število hkratnih uporabnikov)
+* Ključ je kaj želimo s projektom doseči.
+* Navedemo konkretne stvari
+* Kaj bodo končni rezultati
+* Cilji lahko niso otipljivi, morajo pa biti preverljivi (npr. boljša organizacija dela, nižji stroški)
+
+* Primeri ciljev:
+** tehnična dokumentacija
+** API
+** navodila za uporabo sistema
+** spletna/mobilna aplikacija
+
+=== Smernice za rešitev
+
+* Ni nujno da se držiš, je pa priporočljivo
+* Pove kako naj bi nekaj delali, kako naj bi projekt peljali (npr. količina dokumentacije, ki jo želimo)
+* Lastnosti, ki bi naj jih imela rešitev (npr. skalabilnost, odzivnost vmesnika, spoštovanje zasebnosti)
+
+* Nujno moramo slediti moramo nekaterim smernicam:
+** Enostavnost uporabe
+** Visoka razpoložljivost
+** Varovanje osebnih podatkov
+
+* Rešitev mora nujno ustrezati nekaterim kriterijem:
+** Zakonodaja
+** Interesi skupin
+** Ponovna uporabljivost kode
+
+=== Končni uporabniki
+
+.Vprašanja:
+* Kdo bo končni uporabnik rešitve?
+* Koliko bo končnih uporabnikov?
+* Kakšno znanje imajo končni uporabniki?
+* Kdo bo imel končno korist od projekta (ne da bi bil neposredno vključen * stranke naših strank)?
+
+== Projektni načrt
+== Načrt obvladovanja tveganj
+== Upravljanje projekta
+== Predstavitev skupine
+== Finančni načrt
